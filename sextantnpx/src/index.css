@@ -16,10 +16,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Make the body take the full viewport height */
+  height: 100vh; 
 }
 
-/* Style code elements for a code-like appearance */
 code {
   font-family: 'source-code-pro', Menlo, Monaco, Consolas, 'Courier New', monospace;
   background-color: #f7f7f7;
